@@ -1,0 +1,9 @@
+2019-06-13: Menu option system. Method templates.
+2019-06-14: I successfully implemented the quadraticFormula method, which computes the roots of a given quadratic equation.
+			The user can now enter three variables from keyboard.
+			I implemented my distance calculator method.
+2019-06-17: I implemented input from System.in for the distance calculator.
+			Did some documentation.
+2019-06-18: I successfully implemented input from FILE for the distance calculator. The user can choose the distances from lowest to greatest or the other way round.
+2019-06-19: I successfully implemented a Sine Law method. I implemented user input from keyboard.
+			I commented everything that I hadn't already commented out.

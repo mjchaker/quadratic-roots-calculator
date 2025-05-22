@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MathSolver
+comment1.params=
+comment1.target=MathSolver()
+comment2.params=quadratic
+comment2.target=double[]\ quadraticFormula(double[])
+comment2.text=\r\n\ This\ method\ computes\ the\ roots\ of\ a\ quadratic\ equation\ using\ the\ quadratic\ formula.\r\n\r\n\ @param\ \ quadratic\ []\ \ a\ double\ array\ of\ size\ three\ that\ contains\ a,\ b,\ and\ c\ of\ the\ quadratic\ equation.\r\n\ @return\ \ \ \ a\ double\ array\ of\ size\ 2\ that\ contains\ the\ roots\ of\ the\ quadratic\ equation.\r\n
+comment3.params=x_A\ y_A\ z_A\ x_B\ y_B\ z_B
+comment3.target=double\ threeDimensionalDistanceCalculator(double,\ double,\ double,\ double,\ double,\ double)
+comment3.text=\r\n\ This\ method\ calculates\ the\ distance\ between\ two\ three\ dimensional\ ordered\ pairs.\r\n\r\n\ @param\ \ double\ x_A\ the\ location\ of\ a\ point\ A\ in\ dimension\ x.\r\n\ @param\ \ double\ y_A\ the\ location\ of\ a\ point\ A\ in\ dimension\ y.\r\n\ @param\ \ double\ z_A\ the\ location\ of\ a\ point\ A\ in\ dimension\ z.\r\n\ @param\ \ double\ x_B\ the\ location\ of\ a\ point\ B\ in\ dimension\ x.\r\n\ @param\ \ double\ y_B\ the\ location\ of\ a\ point\ B\ in\ dimension\ y.\r\n\ @param\ \ double\ z_B\ the\ location\ of\ a\ point\ B\ in\ dimension\ z.\r\n\ @return\ \ \ \ a\ double\ array\ of\ size\ 2\ that\ contains\ the\ roots\ of\ the\ quadratic\ equation.\r\n
+comment4.params=sideOrAngle\ sideA\ angleA\ sideB\ angleB
+comment4.target=double\ sineLaw(int,\ double,\ double,\ double,\ double)
+comment4.text=\r\n\ This\ method\ solves\ for\ a\ side\ /\ angle\ in\ a\ triangle\ using\ Sine\ Law\:\r\n\ \r\n\ (a\ /\ sinA)\ \=\ (b\ /\ sinB)\ \=\ (c\ /\ sinC)\ \=\ ...\r\n\r\n\ @param\ \ int\ SideOrAngle\ determines\ whether\ the\ method\ computers\ &\ returns\ an\ angle\ /\ side.\r\n\ @param\ \ double\ sideA\ a\ side\ in\ a\ triangle\r\n\ @param\ \ double\ angleA\ an\ angle\ corresponding\ to\ sideA\r\n\ @param\ \ double\ sideB\ a\ different\ side\ in\ a\ triangle\r\n\ @param\ \ double\ angleB\ an\ angle\ corresponding\ to\ sideB\r\n\ @return\ \ \ \ a\ double\ array\ of\ size\ 2\ that\ contains\ the\ roots\ of\ the\ quadratic\ equation.\r\n
+numComments=5

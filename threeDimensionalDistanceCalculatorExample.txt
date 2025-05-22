@@ -1,0 +1,19 @@
+Each line in threeDimensionalDistanceCalculator must contain a label for point A & it's coordinate and a label for point B & its coordinate. They are all seperated by spaces.
+Generally, each line should look like
+
+PointA x_A y_A z_A && PointB x_B y_B z_B
+
+where:
+PointA is a label for a point.
+x_A is the x dimensional coordinate for PointA that refers to a particular point.
+y_A is the y dimensional coordinate for PointA that refers to a particular point.
+z_A is the z dimensional coordinate for PointA that refers to a particular point.
+&& is simply here for the sake of readability.
+x_B is the x dimensional coordinate for PointB that refers to a particular point.
+y_B is the y dimensional coordinate for PointB that refers to a particular point.
+z_B is the z dimensional coordinate for PointB that refers to a particular point.
+
+Examples:
+
+Home 1 2 3 && Work 4 5 6
+This line would be interpreted as Home being a point with coordinates (1, 2, 3) and Work being a point with coordinates (4, 5, 6)

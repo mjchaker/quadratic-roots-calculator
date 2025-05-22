@@ -1,0 +1,14 @@
+Each line in quadraticSolver.txt must contain exactly three numbers seperate by spaces, and from left to right, they respectively correspond to the variables a, b, and c in a quadratic equation. 
+Not all lines are read. You choose the lines read from zero to n, where n is a number with no decimal part.
+The values are used to calculate the roots of a quadratic equation. Positive numbers are indicated by +, or can be omitted. Negative numbers are indicated by -.
+
+Examples:
+
+1 2 3
+In this example, a is interpreted to be positve one, b is interpreted to be positve two, and c is interpreted to be positive three.
+
+-4 -5 -6
+In this example, a is interpreted to be negative four, b is interpreted to be negative five, and c is interpreted to be negative six.
+
++7 8 -9
+In this final example, a is interpreted to be positive seven, b is interpreted to be positive eight, and c is interpreted to be negative nine.
